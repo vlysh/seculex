@@ -1,0 +1,110 @@
+{
+    "1310618076902850670": {
+        "welcome_enabled": true,
+        "farewell_enabled": false,
+        "welcome_channel": "1310618077875929241",
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1340367061460713667": {
+        "welcome_enabled": false,
+        "farewell_enabled": true,
+        "welcome_channel": null,
+        "farewell_channel": "1340379333029531862",
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1343803429914415154": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": "1344901595501957241",
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1271858187318067241": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1341248983217209397": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1324637018705367101": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1230840453021044786": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1283513269881016425": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1347252436393394186": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1345436800495255733": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1271207525009723583": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    },
+    "1352219528901169206": {
+        "welcome_enabled": false,
+        "farewell_enabled": false,
+        "welcome_channel": null,
+        "farewell_channel": null,
+        "welcome_message": "Welcome {user} to {server}!",
+        "farewell_message": "Goodbye {user}, we'll miss you!",
+        "welcome_image": null
+    }
+}

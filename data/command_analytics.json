@@ -1,0 +1,376 @@
+{
+    "commands": {
+        "analytics": {
+            "slash_uses": 2,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 2,
+                    "prefix_uses": 2
+                }
+            }
+        },
+        "invoice": {
+            "slash_uses": 1,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 2
+                }
+            }
+        },
+        "pendinginvoices": {
+            "slash_uses": 2,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 2,
+                    "prefix_uses": 2
+                }
+            }
+        },
+        "markpaid": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "help": {
+            "slash_uses": 19,
+            "prefix_uses": 15,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 19,
+                    "prefix_uses": 15
+                }
+            }
+        },
+        "afk": {
+            "slash_uses": 3,
+            "prefix_uses": 3,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 3,
+                    "prefix_uses": 3
+                }
+            }
+        },
+        "lr": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "dr": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "addcoins": {
+            "slash_uses": 2,
+            "prefix_uses": 3,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 2,
+                    "prefix_uses": 3
+                }
+            }
+        },
+        "balance": {
+            "slash_uses": 0,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "slots": {
+            "slash_uses": 0,
+            "prefix_uses": 3,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 3
+                }
+            }
+        },
+        "chatbot": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "translate": {
+            "slash_uses": 3,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 3,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "calc": {
+            "slash_uses": 0,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "channel": {
+            "slash_uses": 1,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 2
+                }
+            }
+        },
+        "toggle": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "membercount": {
+            "slash_uses": 0,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "info": {
+            "slash_uses": 0,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "user": {
+            "slash_uses": 1,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 2
+                }
+            }
+        },
+        "tictactoe": {
+            "slash_uses": 5,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 5,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "rps": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "choose": {
+            "slash_uses": 2,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 2,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "plinko": {
+            "slash_uses": 0,
+            "prefix_uses": 7,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 7
+                }
+            }
+        },
+        "snipe": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "config_verify_simple": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "simple": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "random": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "password": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "nuke": {
+            "slash_uses": 0,
+            "prefix_uses": 4,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 4
+                }
+            }
+        },
+        "server": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "verify": {
+            "slash_uses": 0,
+            "prefix_uses": 3,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 3
+                }
+            }
+        },
+        "verify_setup": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "ticket": {
+            "slash_uses": 1,
+            "prefix_uses": 0,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 0
+                }
+            }
+        },
+        "play": {
+            "slash_uses": 0,
+            "prefix_uses": 10,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 0,
+                    "prefix_uses": 10
+                }
+            }
+        },
+        "ai_models": {
+            "slash_uses": 1,
+            "prefix_uses": 1,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 1
+                }
+            }
+        },
+        "remind": {
+            "slash_uses": 1,
+            "prefix_uses": 2,
+            "guild_usage": {
+                "1310618076902850670": {
+                    "slash_uses": 1,
+                    "prefix_uses": 2
+                }
+            }
+        }
+    },
+    "total_slash_commands": 57,
+    "total_prefix_commands": 70,
+    "daily_usage": {
+        "2025-02-13": {
+            "slash_commands": 20,
+            "prefix_commands": 27
+        },
+        "2025-02-14": {
+            "slash_commands": 37,
+            "prefix_commands": 43
+        }
+    }
+}

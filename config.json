@@ -1,0 +1,11 @@
+{
+    "statuses": [
+        "Made by Ayush!", 
+        "Powered by Seculex!", 
+        "/help!"
+    ],
+    "hex_embed_color": "01e8ff",
+    "support_server": "https://discord.gg/F5s2XDmKZx",
+    "footer_text": "Bot made by Ayush | Powered by Seculex",
+    "application_id": "1338408460555128925"
+}

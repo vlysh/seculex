@@ -1,0 +1,34 @@
+{
+    "transcript_channel_id": 1348321759891427328,
+    "blacklist": {
+        "0": "1310880108046712938",
+        "1273840535466938422": {
+            "reason": "test",
+            "expires": null
+        }
+    },
+    "custom_ticket_embed": {
+        "global": {
+            "title": "new ticket",
+            "description": "welcome",
+            "color": "#0000FF",
+            "role_id": 1346325195178250270
+        },
+        "buy_now": {
+            "title": "Which service do you wanna buy?",
+            "description": ".",
+            "color": "#0000FF"
+        },
+        "support": {
+            "title": "Meow",
+            "description": "Test",
+            "color": "#0000FF"
+        },
+        "partnerships": null,
+        "other": {
+            "title": "Meow",
+            "description": "Meow",
+            "color": "#0000FF"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp==3.8.5",
+    "asyncio>=3.4.3",
+    "colorama>=0.4.6",
+    "discord-py[voice]>=2.3.0",
+    "dnspython>=2.7.0",
+    "flask-login>=0.6.3",
+    "flask-wtf>=1.2.2",
+    "humanize>=4.11.0",
+    "matplotlib>=3.10.0",
+    "oauthlib>=3.2.2",
+    "pillow>=11.1.0",
+    "psutil>=7.0.0",
+    "pynacl>=1.5.0",
+    "pystyle>=2.9",
+    "python-dotenv>=1.0.1",
+    "pytz>=2025.1",
+    "replit>=4.1.0",
+    "requests>=2.32.3",
+    "selenium>=4.28.1",
+    "slack-sdk>=3.34.0",
+    "spotipy>=2.25.0",
+    "trafilatura>=2.0.0",
+    "twilio>=9.4.4",
+    "wavelink>=3.4.1",
+]
